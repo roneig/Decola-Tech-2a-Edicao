@@ -6,12 +6,12 @@ Atividades desenvolvidas no Bootcamp da Avanade
 1. [Estruturas de dados e algoritmos](/EstruturasDeDadosEAlgoritmos) 
 
 2. Programando em C#:
-	- [Xenlongão](/ProgramandoEmC#)
-	- [Quadrado de Pares](/ProgramandoEmC#)
-	- [Sequência S](/ProgramandoEmC#) 
-	- [Sequência IJ 2](/ProgramandoEmC#)
-	- [Vai Ter Copa?](/ProgramandoEmC#) 
-	- [Sucessor Par](/ProgramandoEmC#) 
+	- [Xenlongão](/ProgramandoEmCsharp)
+	- [Quadrado de Pares](/ProgramandoEmCsharp)
+	- [Sequência S](/ProgramandoEmCsharp) 
+	- [Sequência IJ 2](/ProgramandoEmCsharp)
+	- [Vai Ter Copa?](/ProgramandoEmCsharp) 
+	- [Sucessor Par](/ProgramandoEmCsharp) 
 
 3.
 
